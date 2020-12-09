@@ -111,9 +111,9 @@ button{
   box-sizing: border-box;
 }
 
-.trabajo { background-color: gray; }
-.personal { background-color: lightgreen; }
-.escuela { background-color: lightgray; }
+.trabajo { background-color: gray; box-shadow: 1px 1px 1px 1px #be2edd}
+.personal { background-color:lightgray ; box-shadow: 1px 1px 1px 1px grey}
+.escuela { background-color:lightgreen ; box-shadow: 1px 1px 1px 1px #6ab84c }
 
 .contenedor{
   display: flex;
